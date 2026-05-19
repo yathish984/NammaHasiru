@@ -1,7 +1,7 @@
-# Raitha-Bharosa-Hub
-# 🌾 Raitha Bharosa Hub
+# NammaHasiru
+# 🌾  NammaHasiru
 
-Raitha Bharosa Hub is an Android-based agriculture support application developed to help farmers manage farming activities digitally and efficiently. The application provides a centralized platform for accessing agricultural information, crop details, government schemes, and farm management features.
+ NammaHasiru is an Android-based agriculture support application developed to help farmers manage farming activities digitally and efficiently. The application provides a centralized platform for accessing agricultural information, crop details, government schemes, and farm management features.
 
 This project was developed using Kotlin in Android Studio with modern Android development practices.
 
@@ -57,7 +57,7 @@ This project was developed using Kotlin in Android Studio with modern Android de
 # 📂 Project Structure
 
 ```text
-RaithaBharosa/
+NammaHasiru/
 │
 ├── app/
 │   ├── src/
@@ -93,7 +93,7 @@ Before running the project, make sure the following tools are installed:
 ## 🚀 Clone the Repository
 
 ```bash
-git clone https://github.com/Netra2004/Raitha-Bharosa-Hub.git
+git clone https://github.com/yathish984/NammaHasiru.git
 ```
 
 ---
@@ -173,7 +173,7 @@ The application was tested for:
 
 # 📚 Use Case
 
-Raitha Bharosa Hub can be used by:
+NammaHasiru can be used by:
 
 - Farmers
 - Agricultural students
@@ -209,7 +209,7 @@ This project is developed for educational and learning purposes.
 Android Developer & Student
 
 GitHub Repository:  
-https://github.com/Netra2004/Raitha-Bharosa-Hub
+https://github.com/yathish984/NammaHasiru
 
 ---
 
@@ -221,4 +221,4 @@ If you like this project, give it a ⭐ on GitHub.
 
 # 📌 Conclusion
 
-Raitha Bharosa Hub is a smart agriculture support application designed to simplify farming-related activities through technology. The project demonstrates the use of Android development concepts, user-friendly design, and practical implementation of digital solutions for agriculture. It aims to bridge the gap between farmers and technology by providing useful farming information and management features in a simple mobile application.
+NammaHasiru is a smart agriculture support application designed to simplify farming-related activities through technology. The project demonstrates the use of Android development concepts, user-friendly design, and practical implementation of digital solutions for agriculture. It aims to bridge the gap between farmers and technology by providing useful farming information and management features in a simple mobile application.
