@@ -205,7 +205,7 @@ This project is developed for educational and learning purposes.
 
 # 👨‍💻 Developer
 
-**Netra GS**  
+**Yathish Gowda M**  
 Android Developer & Student
 
 GitHub Repository:  
